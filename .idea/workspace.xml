@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3074df39-fa24-4ded-99ce-333e4966000e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/course/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/course/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/course/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/course/CourseService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/topic/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/topic/Topic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/topic/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/topic/TopicController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/topic/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/topic/TopicService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +41,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/app/course" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/app/course" />
       <recent name="$PROJECT_DIR$/src/main/java/app" />
     </key>
   </component>
@@ -83,6 +84,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="453" y="423" key="#com.intellij.ide.util.MemberChooser" timestamp="1596610105600">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="453" y="423" key="#com.intellij.ide.util.MemberChooser/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596610105600" />
+    <state x="192" y="46" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596609394253">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="192" y="46" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596609394253" />
     <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1596609145735">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
