@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 05 12:59:43 SGT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0173-bcfd-4c2c-0000028d0230 
+on database directory memory:/Users/afiqos/code/course-api-data/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/afiqos/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=1.8.0_265-b01
+user.dir=/Users/afiqos/code/course-api-data
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
