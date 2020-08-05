@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3074df39-fa24-4ded-99ce-333e4966000e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/course/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/course/CourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/course/CourseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/course/CourseService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/course/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/course/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/course/CourseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/course/CourseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/course/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/course/CourseService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
